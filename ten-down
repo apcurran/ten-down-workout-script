@@ -7,4 +7,4 @@ for ((i = 1; i <= num_sets; i++)); do
     ((total_reps += i))
 done
 
-echo Total reps: $total_reps
+echo "Total reps: $total_reps"
