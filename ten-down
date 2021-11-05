@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /bin/sh
 
 read -p "Hey user, how many sets did you do in your workout? " num_sets # variable created
 
